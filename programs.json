@@ -1,0 +1,17 @@
+[
+  { 
+    "title": "EO Server Launcher", 
+    "content": "With this version of the launcher you need to include the config.json in your endless online folder.Place the exe and the config into your endless folder that you will be distributing to your players.Set Up Your Launcher Edit the config to change the icon, background, and all links of the program You will want to put a version.txt file in the same directory as the zip for the download, this will be the file that the program will use to judge if the user needs to update. You will also want to host a news.json and make sure to point to it in the config.", 
+    "image": "photos/eoservlauncher.png" 
+  },
+  { 
+    "title": "EOResource", 
+    "content": "EOResource allows the player to see the server status, who's online, npc stats and more.",
+    "image": "photos/eor.png"
+  },
+  { 
+    "title": "Text RPG Maker", 
+    "content": "Our Text-Based RPG Adventure is designed with customization in mind, making it incredibly easy for you to tailor the game to your preferences. Whether you’re a seasoned developer or new to game customization, our intuitive system ensures a seamless experience.",
+    "image": "https://img.itch.zone/aW1hZ2UvMjc0Mzg5My8xNjM3MzU0Ny5wbmc=/347x500/5S7Wge.png"
+  }
+]
